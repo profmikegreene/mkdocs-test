@@ -3,7 +3,7 @@
 todo
 - [x] create test repo
 - [x] clone
-- [ ] create docs folder
+- [x] create docs folder
 - [ ] add neccessary mkdocs content
 - [ ] add md files to docs folder
 - [ ] push docs to remote
